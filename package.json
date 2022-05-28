@@ -1,0 +1,9 @@
+{
+  "name": "com.russdevacc.unityupdater",
+  "version": "0.0.1",
+  "displayName": "Unity Updater",
+  "unity": "2020.3",
+  "unityRelease": "34f1",
+  "description": "Automatic updater for unity using asset bundles.",
+  "type": "sample"
+}
