@@ -2,7 +2,7 @@
  
 Simple automatic updater for asset bundles and unity. Works on any platform. Client will only download bundles that have actually changed.
 
-#Usage
+# Usage
 Install as a unity package through the package manager.
 
 Open Window> Unity Updater in unity3d. Set version to 1, press "build bundles"
